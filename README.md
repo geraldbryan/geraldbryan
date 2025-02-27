@@ -14,7 +14,7 @@ Feel free to connect—let’s talk, collaborate, or just geek out over common i
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geraldbryan_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geraldbryan9914@gmail.com)
 
-## My Experience in the Wild 💼
+💼 ## My Experience in the Wild 
 
 ### [Supertype](https://supertype.ai), Lead Data Science Consulting
 ---
@@ -26,7 +26,7 @@ Sectors is an intelligent, ever-evolving financial data platform built for Indon
 
 As the Lead Data Architecture & Infrastructure Engineer, I ensure that all data pipelines operate smoothly and reliably at [Sectors.app](https://sectors.app). I am also responsible for maintaining data integrity and ensuring seamless connectivity between the database to the API and front-end, minimizing errors on both ends.
 
-### Past Works ⏪
+⏪ ### Past Works
 ---
 🍎 **Junior IOS Developer, Apple Developer Academy @Binus**
 
