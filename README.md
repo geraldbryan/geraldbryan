@@ -26,7 +26,7 @@ Sectors is an intelligent, ever-evolving financial data platform built for Indon
 
 As the Lead Data Architecture & Infrastructure Engineer, I ensure that all data pipelines operate smoothly and reliably at [Sectors.app](https://sectors.app). I am also responsible for maintaining data integrity and ensuring seamless connectivity between the database to the API and front-end, minimizing errors on both ends.
 
-⏪ ### Past Works
+### ⏪ Past Works
 ---
 🍎 **Junior IOS Developer, Apple Developer Academy @Binus**
 
